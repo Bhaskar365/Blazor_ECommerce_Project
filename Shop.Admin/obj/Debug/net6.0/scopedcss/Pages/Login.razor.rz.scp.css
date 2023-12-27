@@ -1,0 +1,48 @@
+.loginBox[b-ysgdd6ekpd] {
+    font-family: 'sans-serif';
+    margin:0 auto 0 auto;
+    width:100%;
+    text-align:center;
+    margin:20px 0px 20px 0px;
+}
+
+p[b-ysgdd6ekpd]{
+    font-size:12px;
+    text-decoration:none;
+    color:#ffffff;
+}
+
+h1[b-ysgdd6ekpd] {
+    font-size:1.5em;
+    color:#525252;
+}
+
+.box[b-ysgdd6ekpd]{
+    background:white;
+    width:300px;
+    border-radius:6px;
+    margin:0 auto 0 auto;
+    padding:0px 0px 10px 10px;
+    border:#2877e9 4px solid;
+}
+
+.email[b-ysgdd6ekpd] {
+    background: #ffffff;
+    border: #ccc 1px solid;
+    border-bottom: #ccc 2px solid;
+    padding: 8px;
+    width: 250px;
+    color :#525252;
+    margin-top:10px;
+    font-size:1em;
+    border-radius:4px;
+}
+
+.password[b-ysgdd6ekpd] {
+    border-radius:4px;
+    background:#ecf0f1;
+    border:#ccc 1px solid;
+    padding:8px;
+    width:250px;
+    font-size:1em;
+}

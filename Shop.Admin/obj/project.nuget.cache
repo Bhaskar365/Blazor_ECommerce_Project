@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t2Mf3F9DD+rWMpEd7vPgJtk2E0YoulVPeogjSrthAIL99A7hR6+DMtJL24nBnI/STAHA4oKCJ69e6wfZqZP78A==",
+  "dgSpecHash": "hm54gSkuhKjMPH5Rb+Jn0HH5NMxi3Sr1NdasKILV3bBdrGG3POHIZ5/SH/VhCP7wvjyRzArAmspo0rQLf80YWw==",
   "success": true,
   "projectFilePath": "C:\\Angular_RunningPrograms\\Ecommerce_Site_Blazor\\ShoppingCart\\Shop.Admin\\Shop.Admin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bdas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

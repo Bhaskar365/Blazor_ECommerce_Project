@@ -1,13 +1,16 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using Shop.Admin.Data;
-
+using Shop.Admin.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+
+builder.Services.AddHttpClient<IAdminPanelService, AdminPanelService>(client => 
+{
+    client.BaseAddress = new Uri("http://localhost:5258/");
+});
 
 var app = builder.Build();
 

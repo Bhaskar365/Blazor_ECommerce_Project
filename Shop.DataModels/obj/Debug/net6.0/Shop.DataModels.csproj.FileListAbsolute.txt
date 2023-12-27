@@ -1,0 +1,13 @@
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\bin\Debug\net6.0\Shop.DataModels.deps.json
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\bin\Debug\net6.0\Shop.DataModels.dll
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\bin\Debug\net6.0\Shop.DataModels.pdb
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.AssemblyInfoInputs.cache
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.AssemblyInfo.cs
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.csproj.CoreCompileInputs.cache
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.sourcelink.json
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.dll
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\refint\Shop.DataModels.dll
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.pdb
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\ref\Shop.DataModels.dll
+C:\Angular_RunningPrograms\Ecommerce_Site_Blazor\ShoppingCart\Shop.DataModels\obj\Debug\net6.0\Shop.DataModels.csproj.AssemblyReference.cache

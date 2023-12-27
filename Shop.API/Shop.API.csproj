@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shop.DataModels\Shop.DataModels.csproj" />
+    <ProjectReference Include="..\Shop.Logic\Shop.Logic.csproj" />
   </ItemGroup>
 
 </Project>
