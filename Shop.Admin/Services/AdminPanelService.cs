@@ -4,6 +4,7 @@ using System.Net.Http.Json;
 
 namespace Shop.Admin.Services
 {
+    //testing code for commit related gitHub issues 
     public class AdminPanelService : IAdminPanelService
     {
         private readonly HttpClient _httpClient;
